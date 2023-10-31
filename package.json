@@ -1,0 +1,21 @@
+{
+  "name": "learn-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/resolver-default": "^2.10.1",
+    "parcel": "^2.10.1",
+    "posthtml-doctype": "^1.1.1",
+    "posthtml-include": "^1.7.4"
+  },
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
